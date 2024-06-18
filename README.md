@@ -1,1 +1,1 @@
-# Veritas-full-stack-training-
+# training-project
